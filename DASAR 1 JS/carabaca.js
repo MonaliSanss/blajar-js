@@ -11,9 +11,9 @@ console.log(number);
 //dan yang valid adalah variable pada line 7.
 
 let number1 = false;
-console.log(false + 10); 
+console.log(false + 10);
 //kenapa false + 10 hasilnya tetap 10??? dikarenakan false dalam bahasa pemograman nilainya 0, sedangkan true = 1;
 // true = 1;
 // false = 0;
 console.log(false + 10); // menghasilkan ouput 10
-console.log(true + 10); // menghasilkan output 11
+console.log(true + 11); // menghasilkan output 12
